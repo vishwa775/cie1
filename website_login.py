@@ -8,7 +8,6 @@ if len(sys.argv) > 1:
     password = sys.argv[4]
 
 else:
-    script_name = sys.argv[0]
     websitename = "abc limited"
     weburl = "abc.com"
     username = "king"
